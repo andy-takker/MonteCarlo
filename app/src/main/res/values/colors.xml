@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_edit_text_foreground">#32000000</color>
+
+    <color name="color_error_text_view_text">#fd2929</color>
+    <color name="color_error_text_view_foreground">#ffd7d7</color>
+
+    <color name="color_add_button">#a9ffbe</color>
+    <color name="color_remove_button">#ffe0e0</color>
+</resources>

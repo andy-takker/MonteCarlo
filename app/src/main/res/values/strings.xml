@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MonteCarlo</string>
+    <string name="variable_numbers">Количество показателей</string>
+    <string name="calculate_button">Произвести рассчет</string>
+    <string name="menu_help">Help</string>
+
+
+    <string name="project_duration">Срок реализации проекта:</string>
+
+    <string name="project_iters">Количество итераций:</string>
+
+    <string name="error_duration_mess">Проверьте правильность введенных данных!</string>
+
+    <string name="discount_rate">Ставка дисконтирования:</string>
+    <string name="capex">Капитальные затраты:</string>
+    <string name="cash">Денежные потоки:</string>
+
+    <string name="inputName">Name</string>
+    <string name="inputValue">value</string>
+    <string name="inputMin">min</string>
+    <string name="inputMax">max</string>
+
+    <string name="vnd_fragment_str_1">Ставка ЦБ</string>
+    <string name="vnd_fragment_str_2">Инфляция</string>
+
+    <string name="vnd_button">ВНД</string>
+
+    <string name="vnd">Вероятность успешности проекта: %1$s</string>
+    <string name="save_button">Сохранить результаты</string>
+
+    <string name="warning_securities_rate">Введите корректное\nзначение ставки ЦБ</string>
+    <string name="warning_inflation">Введите корректное\nзначение инфляции</string>
+    <string name="index_cash">ИД: %1$s</string>
+
+    <string name="file_name">%1$d.jpg</string>
+</resources>
